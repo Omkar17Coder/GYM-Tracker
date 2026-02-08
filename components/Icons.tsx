@@ -1,0 +1,53 @@
+
+import React from 'react';
+import { 
+  LayoutDashboard, 
+  PlusCircle, 
+  Calendar, 
+  Dumbbell, 
+  BarChart2, 
+  Settings, 
+  ChevronRight, 
+  ChevronLeft, 
+  Clock, 
+  Trophy, 
+  Flame, 
+  Plus, 
+  Trash2, 
+  CheckCircle,
+  MoreVertical,
+  Camera,
+  Moon,
+  Sun,
+  X,
+  History,
+  Info,
+  ChevronDown,
+  Target
+} from 'lucide-react';
+
+export const Icons = {
+  LayoutDashboard,
+  PlusCircle,
+  Calendar,
+  Dumbbell,
+  BarChart2,
+  Settings,
+  ChevronRight,
+  ChevronLeft,
+  Clock,
+  Trophy,
+  Flame,
+  Plus,
+  Trash2,
+  CheckCircle,
+  MoreVertical,
+  Camera,
+  Moon,
+  Sun,
+  X,
+  History,
+  Info,
+  ChevronDown,
+  Target
+};

@@ -1,0 +1,7 @@
+{
+  "name": "Om's Den",
+  "description": "A comprehensive gym exercise tracking application with workout logging, PR tracking, progress charts, body measurements, and AI-powered form coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
